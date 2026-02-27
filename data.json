@@ -1,0 +1,52 @@
+{
+  "P101": {
+    "name": "Aman Gupta",
+    "city": "Delhi",
+    "age": 26,
+    "gender": "male",
+    "height": 1.72,
+    "weight": 68,
+    "bmi": 22.99,
+    "verdict": "Normal"
+  },
+  "P102": {
+    "name": "Priya Iyer",
+    "city": "Chennai",
+    "age": 34,
+    "gender": "female",
+    "height": 1.6,
+    "weight": 72,
+    "bmi": 28.12,
+    "verdict": "Overweight"
+  },
+  "P103": {
+    "name": "Rohit Malhotra",
+    "city": "Jaipur",
+    "age": 41,
+    "gender": "male",
+    "height": 1.78,
+    "weight": 102,
+    "bmi": 32.19,
+    "verdict": "Obese"
+  },
+  "P104": {
+    "name": "Kavya Nair",
+    "city": "Kochi",
+    "age": 21,
+    "gender": "female",
+    "height": 1.62,
+    "weight": 47,
+    "bmi": 17.91,
+    "verdict": "Underweight"
+  },
+  "P105": {
+    "name": "Sandeep Roy",
+    "city": "Patna",
+    "age": 38,
+    "gender": "male",
+    "height": 1.7,
+    "weight": 76,
+    "bmi": 26.30,
+    "verdict": "Overweight"
+  }
+}
