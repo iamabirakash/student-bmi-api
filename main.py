@@ -16,3 +16,7 @@ def links():
 @app.get("/check")
 def links():
     return("Health is Okay")
+
+@app.get("/Cloud")
+def links():
+    return("Cloud is Working")
