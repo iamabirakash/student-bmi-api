@@ -12,3 +12,7 @@ def about():
 @app.get("/links")
 def links():
     return("Links are working")
+
+@app.get("/check")
+def links():
+    return("Health is Okay")
